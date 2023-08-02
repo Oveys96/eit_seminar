@@ -22,8 +22,8 @@ REMARK:
 Three different image reconstruction methods are shown
 The number of electrodes in each row is equal
 The image reconstruction method in each colomn is same
-Result:
 
+Result:
 Jacobian is the slowest and Backprojection is the fastest method
 GREIT is the trade off between Jacobian and Backprojection for time and resolution
 
@@ -36,8 +36,8 @@ REMARK:
 Three different image reconstruction methods are shown
 The number of electrodes in each row is equal
 The image reconstruction method in each colomn is same
-Result:
 
+Result:
 Jacobian is the slowest and Backprojection is the fastest method
 GREIT is the trade off between Jacobian and Backprojection for time and resolution
 
@@ -49,8 +49,8 @@ REMARK:
 Three different image reconstruction methods are shown
 The number of electrodes in each row is equal
 The image reconstruction method in each colomn is same
-Result:
 
+Result:
 Jacobian is the slowest and Backprojection is the fastest method
 GREIT is the trade off between Jacobian and Backprojection for time and resolution
 All three methods are good with goal of the detection of the number of the separated objects
@@ -65,8 +65,8 @@ Three different image reconstruction methods are shown
 The number of electrodes in each row is equal
 The image reconstruction method in each colomn is same
 The target is trying to detect two objects with same conductivity but different size
-Result:
 
+Result:
 Jacobian is the slowest and Backprojection is the fastest method
 GREIT is the trade off between Jacobian and Backprojection for time and resolution
 
