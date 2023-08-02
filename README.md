@@ -1,4 +1,4 @@
-
+https://github.com/Oveys96/eit_seminar/blob/main/codes/logo/logo.pdf
 
 `pyEIT` is a python-based, open-source framework for Electrical Impedance Tomography (EIT). The design priciples of `pyEIT` are **modularity, minimalism, extensibility and OOP.**
 
