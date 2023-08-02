@@ -16,6 +16,12 @@ From the example folder, pick one demo and run!
 **Note:** the following images may be outdated due to that the parameters of a EIT algorithm may be changed in different versions of `pyEIT`. And it is there in the code, so just run the demo.
 
 ### 2.1 (2D) forward and inverse computing
+# ![1obj_center](https://github.com/Oveys96/eit_seminar/blob/main/codes/images/1obj_center.png)
+# ![pyeit](https://github.com/Oveys96/eit_seminar/blob/main/codes/logo/logo.png)
+# ![pyeit](https://github.com/Oveys96/eit_seminar/blob/main/codes/logo/logo.png)
+# ![pyeit](https://github.com/Oveys96/eit_seminar/blob/main/codes/logo/logo.png)
+# ![pyeit](https://github.com/Oveys96/eit_seminar/blob/main/codes/logo/logo.png)
+# ![pyeit](https://github.com/Oveys96/eit_seminar/blob/main/codes/logo/logo.png)
 
 
 
