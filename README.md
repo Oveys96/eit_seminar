@@ -26,7 +26,6 @@ Result:
 
 Jacobian is the slowest and Backprojection is the fastest method
 GREIT is the trade off between Jacobian and Backprojection for time and resolution
------------------------------------------------------------------------------------------------------------------------------------------
 
 **Using** `codes/examples/one_obj_side.ipynb`
 
@@ -41,7 +40,6 @@ Result:
 
 Jacobian is the slowest and Backprojection is the fastest method
 GREIT is the trade off between Jacobian and Backprojection for time and resolution
------------------------------------------------------------------------------------------------------------------------------------------
 
 **Using** `codes/examples/two_obj_sides.py`
 
@@ -56,7 +54,6 @@ Result:
 Jacobian is the slowest and Backprojection is the fastest method
 GREIT is the trade off between Jacobian and Backprojection for time and resolution
 All three methods are good with goal of the detection of the number of the separated objects
------------------------------------------------------------------------------------------------------------------------------------------
 
 **Using** `codes/examples/twoD_obj_sides.py`
 
@@ -72,7 +69,6 @@ Result:
 
 Jacobian is the slowest and Backprojection is the fastest method
 GREIT is the trade off between Jacobian and Backprojection for time and resolution
------------------------------------------------------------------------------------------------------------------------------------------
 
 **Using** `codes/examples/adjandopp.py`
 
@@ -88,8 +84,6 @@ Result:
 
 Opposite injection pattern showes separated objects clearer
 GREIT is the best and Backprojection is the worst
------------------------------------------------------------------------------------------------------------------------------------------
-
 **Using** `codes/examples/geometry.py`
 
 # ![triangelandcircle](https://github.com/Oveys96/eit_seminar/blob/main/codes/images/triangelandcircle.png)
@@ -106,7 +100,6 @@ GREIT almost fails even in separating the objects
 Jacobian has the highest resolution
 Adjacent injection pattern causes better results for objects with sharp edges
 Simulating the edges is difficult task and almost all these methods fail in it. We should use other tools for post processing the image
------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
