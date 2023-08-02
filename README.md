@@ -21,6 +21,7 @@ REMARK:
 Three different image reconstruction methods are shown
 The number of electrodes in each row is equal
 The image reconstruction method in each colomn is same
+
 Result:
 Jacobian is the slowest and Backprojection is the fastest method
 GREIT is the trade off between Jacobian and Backprojection for time and resolution
