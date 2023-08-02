@@ -2,3 +2,4 @@
 codes/meshing/__pycache__
 codes/meshing/.ipynb_checkpoints
 codes/methods/.ipynb_checkpoints
+*.ipynb_checkpoints
