@@ -14,7 +14,7 @@ From the example folder, pick one demo and run!
 
 ### 2.1 (2D) forward and inverse computing
 
-#----------------------------------------------------------------------------------------------------------------------------------------#
+#-----------------------------------------------------------------------------------#
 
 **Using** `codes/examples/one_obj_cent.ipynb`
 
@@ -31,7 +31,7 @@ Result:
 Jacobian is the slowest and Backprojection is the fastest method
 GREIT is the trade off between Jacobian and Backprojection for time and resolution
 
-#----------------------------------------------------------------------------------------------------------------------------------------#
+#-----------------------------------------------------------------------------------#
 
 **Using** `codes/examples/one_obj_side.ipynb`
 
@@ -48,7 +48,7 @@ Result:
 Jacobian is the slowest and Backprojection is the fastest method
 GREIT is the trade off between Jacobian and Backprojection for time and resolution
 
-#----------------------------------------------------------------------------------------------------------------------------------------#
+#-----------------------------------------------------------------------------------#
 
 **Using** `codes/examples/two_obj_sides.py`
 
@@ -65,7 +65,7 @@ Jacobian is the slowest and Backprojection is the fastest method
 GREIT is the trade off between Jacobian and Backprojection for time and resolution
 All three methods are good with goal of the detection of the number of the separated objects
 
-#----------------------------------------------------------------------------------------------------------------------------------------#
+#-----------------------------------------------------------------------------------#
 
 **Using** `codes/examples/twoD_obj_sides.py`
 
@@ -83,7 +83,7 @@ Result:
 Jacobian is the slowest and Backprojection is the fastest method
 GREIT is the trade off between Jacobian and Backprojection for time and resolution
 
-#----------------------------------------------------------------------------------------------------------------------------------------#
+#-----------------------------------------------------------------------------------#
 
 **Using** `codes/examples/adjandopp.py`
 
@@ -101,7 +101,7 @@ Result:
 Opposite injection pattern showes separated objects clearer
 GREIT is the best and Backprojection is the worst
 
-#----------------------------------------------------------------------------------------------------------------------------------------#
+#-----------------------------------------------------------------------------------#
 
 **Using** `codes/examples/geometry.py`
 
