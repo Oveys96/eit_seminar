@@ -18,11 +18,13 @@ From the example folder, pick one demo and run!
 # ![1obj_center](https://github.com/Oveys96/eit_seminar/blob/main/codes/images/1obj_center.png)
 
 REMARK:
+
 Three different image reconstruction methods are shown
 The number of electrodes in each row is equal
 The image reconstruction method in each colomn is same
 
 Result:
+
 Jacobian is the slowest and Backprojection is the fastest method
 GREIT is the trade off between Jacobian and Backprojection for time and resolution
 
