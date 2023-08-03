@@ -2,7 +2,7 @@
 
 ## Install Requirements
 
-All requirements are provided inside the `requirements.txt`. To install them navigate inside the sciopy directory and type:
+All requirements are provided inside the `requirements.txt`.
 
     pip3 install -r requirements.txt # Linux, macOS, Windows
     pip install -r requirements.txt  # Windows
