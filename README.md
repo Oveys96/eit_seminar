@@ -1,4 +1,4 @@
-# Comparison of numerical 2d reconstruction methods and the corresponding requirements and impact of parameters using the pyEIT package.
+# Comparison of numerical 2D reconstruction methods and the corresponding requirements and impact of parameters using the pyEIT package.
 
 
 ## Install Requirements
