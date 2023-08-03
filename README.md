@@ -116,7 +116,7 @@ REMARK:
 Three different image reconstruction methods are shown.
 The number of electrodes in any case is equal.
 The image reconstruction method in each colomn is same.
-The target is trying to detect the object like triangle with sharp edges with adjacent and opposite injection pattern.
+The goal is trying to detect the object like triangle with sharp edges with adjacent and opposite injection pattern.
 
 Result:
 
